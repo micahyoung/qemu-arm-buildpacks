@@ -1,0 +1,5 @@
+*.qcow2
+meta-data
+user-data
+user-data.iso
+.idea
